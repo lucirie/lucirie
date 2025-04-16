@@ -1,7 +1,7 @@
 <h1 align="center">ども!!, Call me lucirie!</h1>
 <h3 align="center">"Driven with passion and love"</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails** and **Unsupervised Machine Learning***
 
 - 💬 Ask me about **Flask, Python and C**
 

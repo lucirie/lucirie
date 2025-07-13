@@ -1,15 +1,15 @@
 <h1 align="center">ども!! Call me Lucirie (Ziad Alezzi)</h1>
-<h3 align="center">Passion in all things computer</h3>
+<h3 align="center">Local Computer Nerd</h3>
 
 
 
 **About Me**  
 I’m a self-taught developer and future AI engineer from Lebanon, currently 15 years old (Started at a young age of 14). I’ve completed the Machine Learning Specialization by Andrew Ng and implemented several models ([Logistic Regression](http://github.com/lucirie/ML-Regression-Models/blob/main/logistic/logistic.ipynb), [Convolutional](https://github.com/lucirie/Deep-learning/tree/master/cnn) and [Neural Networks](https://github.com/lucirie/Deep-learning/blob/master/neuralnet/neuralnet.ipynb) from scratch using only NumPy, Pandas, and Matplotlib.
 
-I'm passionate about:
-- 💎 Learning **Ruby on Rails** for web development
-- 🤖 Building AI Models using **Machine Learning** and **Deep Learning**
-- 🌏 Independently studied Japanese with a current proficiency of JLPT N4
+Abit of ma interests:
+-  Learning **Ruby on Rails** for web development
+-  Building AI Models using **Machine Learning** and **Deep Learning**
+-  Independently studied Japanese with a current proficiency of JLPT N4
 
 
 
@@ -21,7 +21,7 @@ I'm passionate about:
 
 
 
-## 💻 Tech Stack
+## My current skill sets
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
@@ -32,6 +32,6 @@ I'm passionate about:
 
 
 
-## 📂 Highlight Projects
+## 📂 Highlight Projects (My favorite ones!!)
 -  [ML Regression Models from Scratch](https://github.com/lucirie/ml-regression-models)
 -  [DL Models from Scratch](https://github.com/lucirie/Deep-learning/tree/master)

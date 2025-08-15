@@ -19,6 +19,7 @@ Abit of ma interests:
 -  Discord: [lucirie](https://discord.gg/lucirie)
 -  LinkedIn: [Ziad Alezzi](https://linkedin.com/in/ziad-alezzi-8727bb345)
 -  Stack Overflow: [Lucirie](https://stackoverflow.com/users/27984923/lucirie)
+-  Blog: [Ziad Alezzi](https://dev.to/lucirie)
 
 
 

@@ -5,7 +5,7 @@
 
 
 **About Me**  
-I’m a self-taught developer and future AI engineer from Lebanon, currently 15 years old (Started at a young age of 14). I’ve completed the Machine Learning Specialization by Andrew Ng and implemented several models ([Logistic Regression](http://github.com/lucirie/ML-Regression-Models/blob/main/logistic/logistic.ipynb), [Convolutional](https://github.com/lucirie/Deep-learning/tree/master/cnn) and [Neural Networks](https://github.com/lucirie/Deep-learning/blob/master/neuralnet/neuralnet.ipynb) from scratch using only NumPy, Pandas, and Matplotlib.
+I’m a self-taught developer and future AI engineer from Lebanon, currently 15 years old (Started at a young age of 14). I’ve completed the Machine Learning and Deep Learning Specializations by Andrew Ng and implemented several models ([Logistic Regression](http://github.com/lucirie/ML-Regression-Models/blob/main/logistic/logistic.ipynb), [Convolutional](https://github.com/lucirie/Deep-learning/tree/master/cnn) and [Neural Networks](https://github.com/lucirie/Deep-learning/blob/master/neuralnet/neuralnet.ipynb) from scratch using only NumPy, Pandas, and Matplotlib.
 
 Abit of ma interests:
 -  Learning **Ruby on Rails** for web development

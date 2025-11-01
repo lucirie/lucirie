@@ -1,7 +1,9 @@
 <h3 align="center"><strong><em style="font-size: 32px;">ども!! Call me Lucirie (Ziad Alezzi)</em></strong></h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">Local Computer Nerd</h3>
-
+<p align="center">
+  <em>“Technical disciplines aren’t a spectator sport”</em>
+</p>
 
 
 **About Me**  
@@ -14,7 +16,7 @@ Abit of ma interests:
 
 
 
-📬 **Reach Me**
+ **Send me a message!**
 -  Email: **lucirieko@gmail.com**
 -  Discord: [lucirie](https://discord.gg/lucirie)
 -  LinkedIn: [Ziad Alezzi](https://linkedin.com/in/ziad-alezzi-8727bb345)
@@ -34,6 +36,6 @@ Abit of ma interests:
 
 
 
-## 📂 Highlight Projects (My favorite ones!!)
+## Highlight Projects (My favorite ones!!)
 -  [ML Regression Models from Scratch](https://github.com/lucirie/ml-regression-models)
 -  [DL Models from Scratch](https://github.com/lucirie/Deep-learning/tree/master)

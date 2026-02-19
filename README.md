@@ -12,8 +12,9 @@ I’m a self-taught developer and future AI engineer from Lebanon, currently 16 
 Abit of ma interests:
 -  Learning **Ruby on Rails** for web development
 -  Building AI Models using **Machine Learning** and **Deep Learning**
--  Independently studied Japanese with a current proficiency of JLPT N4
-
+-  Independently studied Japanese with a current proficiency of JLPT N3
+-  Playing a variety of instruments
+-  Editing videos for my YouTube channels
 
 
  **Send me a message!**
